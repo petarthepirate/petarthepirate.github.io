@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 2019 Learning Goals
+title: 2019 Goals
 date: 2019-03-10
 ---
 
-These are my learning goals for the year:
+Learning Goals:
 
 * Color Grade
     * S-Log2
@@ -14,3 +14,8 @@ These are my learning goals for the year:
     * After Effects
     * Photoshop
 * Development Project
+
+Lifestyle Goals:
+
+* Consistently wake up early - 6:00AM
+* Eat healthy
